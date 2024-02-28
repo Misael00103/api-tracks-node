@@ -8,9 +8,9 @@ const loginCtrl = async(req, res) => {
     try {
 
         const mockUser = {
-            name: 'Misael',
+            name: 'user',
             email: 'test@test.com',
-            password: '12345678',
+            password: '1234568',
             avatar: 'https://media.licdn.com/dms/image/D4E03AQGUrk0HDMP-ew/profile-displayphoto-shrink_400_400/0/1700951063172?e=2147483647&v=beta&t=yHBXrCerum_dkrBM1Z8FWz7HJK6JBahHfoDGIs6hF3w'
         }
 
